@@ -1,0 +1,469 @@
+[
+  {
+    "Aliment": "ail",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Chili de lentilles et quinoa, Poêlée de crevettes et courgettes"
+  },
+  {
+    "Aliment": "apple",
+    "Quantité": 0.5,
+    "Unité": "small",
+    "Recettes": "Salade de crabe dans des poches de pita"
+  },
+  {
+    "Aliment": "asparagus",
+    "Quantité": 750.0,
+    "Unité": "g",
+    "Recettes": "Saumon aux asperges et riz"
+  },
+  {
+    "Aliment": "bacon",
+    "Quantité": 600.0,
+    "Unité": "g",
+    "Recettes": "Pâtes carbonara"
+  },
+  {
+    "Aliment": "basil",
+    "Quantité": 2.0,
+    "Unité": "Tbsp",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "bell pepper",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Poulet grillé aux légumes, Salade de crabe dans des poches de pita",
+    "Notes": "6.0 pieces + 0.25 medium"
+  },
+  {
+    "Aliment": "bell peppers",
+    "Quantité": 12.0,
+    "Unité": "servings",
+    "Recettes": "Chili de chorizo et boeuf dans un poivron farci, Poivrons farcis au quinoa et chorizo"
+  },
+  {
+    "Aliment": "burger buns",
+    "Quantité": 8.0,
+    "Unité": "",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "butter",
+    "Quantité": 2.0,
+    "Unité": "Tbsp",
+    "Recettes": "Chops de porc au fromage"
+  },
+  {
+    "Aliment": "cayenne",
+    "Quantité": 1.5,
+    "Unité": "tsps",
+    "Recettes": "Chili de chorizo et boeuf dans un poivron farci, Poivrons farcis au quinoa et chorizo"
+  },
+  {
+    "Aliment": "chicken breast",
+    "Quantité": 2400.0,
+    "Unité": "g",
+    "Recettes": "Poulet grillé aux légumes, Salade de quinoa et poulet"
+  },
+  {
+    "Aliment": "chicken breasts",
+    "Quantité": 60.0,
+    "Unité": "medium",
+    "Recettes": "Tacos de poulet à la mijoteuse"
+  },
+  {
+    "Aliment": "chili powder",
+    "Quantité": 0.75,
+    "Unité": "tsps",
+    "Recettes": "Chili de chorizo et boeuf dans un poivron farci, Poivrons farcis au quinoa et chorizo"
+  },
+  {
+    "Aliment": "chorizo",
+    "Quantité": 1360.77,
+    "Unité": "g",
+    "Recettes": "Chili de chorizo et boeuf dans un poivron farci, Poivrons farcis au quinoa et chorizo"
+  },
+  {
+    "Aliment": "cocoa powder",
+    "Quantité": 1.0,
+    "Unité": "Tbsp",
+    "Recettes": "Omelette aux œufs et légumes"
+  },
+  {
+    "Aliment": "coriander leaves",
+    "Quantité": 59.15,
+    "Unité": "g",
+    "Recettes": "Salade de crabe dans des poches de pita"
+  },
+  {
+    "Aliment": "corn tortillas",
+    "Quantité": 18.0,
+    "Unité": "small",
+    "Recettes": "Chili de poulet et haricots"
+  },
+  {
+    "Aliment": "cotija cheese",
+    "Quantité": 9.0,
+    "Unité": "servings",
+    "Recettes": "Chili de poulet et haricots"
+  },
+  {
+    "Aliment": "cottage cheese",
+    "Quantité": 210.0,
+    "Unité": "g",
+    "Recettes": "Omelette aux œufs et légumes"
+  },
+  {
+    "Aliment": "courgettes",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Poêlée de crevettes et courgettes"
+  },
+  {
+    "Aliment": "crabmeat",
+    "Quantité": 300.0,
+    "Unité": "g",
+    "Recettes": "Salade de crabe dans des poches de pita"
+  },
+  {
+    "Aliment": "cream",
+    "Quantité": 4.0,
+    "Unité": "Tbsps",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "cream of mushroom soup",
+    "Quantité": 5.0,
+    "Unité": "large can",
+    "Recettes": "Boeuf aux champignons et riz"
+  },
+  {
+    "Aliment": "crevettes",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Poêlée de crevettes et courgettes"
+  },
+  {
+    "Aliment": "cucumber",
+    "Quantité": 3.0,
+    "Unité": "medium",
+    "Recettes": "Salade de quinoa et poulet"
+  },
+  {
+    "Aliment": "cumin",
+    "Quantité": 0.75,
+    "Unité": "tsps",
+    "Recettes": "Chili de chorizo et boeuf dans un poivron farci, Chili de lentilles et quinoa, Poivrons farcis au quinoa et chorizo"
+  },
+  {
+    "Aliment": "dale's seasoning sauce",
+    "Quantité": 394.3,
+    "Unité": "ml",
+    "Recettes": "Boeuf aux champignons et riz"
+  },
+  {
+    "Aliment": "dijon mustard",
+    "Quantité": 4.0,
+    "Unité": "Tbsps",
+    "Recettes": "Chops de porc au fromage"
+  },
+  {
+    "Aliment": "egg",
+    "Quantité": 12.0,
+    "Unité": "pieces",
+    "Recettes": "Pâtes carbonara"
+  },
+  {
+    "Aliment": "eggs",
+    "Quantité": 3.0,
+    "Unité": "",
+    "Recettes": "Omelette aux œufs et légumes"
+  },
+  {
+    "Aliment": "feta cheese",
+    "Quantité": 300.0,
+    "Unité": "g",
+    "Recettes": "Salade de quinoa et poulet"
+  },
+  {
+    "Aliment": "garlic",
+    "Quantité": 2.0,
+    "Unité": "clove",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "garlic powder",
+    "Quantité": 5.0,
+    "Unité": "Tbsp",
+    "Recettes": "Boeuf aux champignons et riz"
+  },
+  {
+    "Aliment": "green onion",
+    "Quantité": 2.0,
+    "Unité": "",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "green onion tops",
+    "Quantité": 12.0,
+    "Unité": "servings",
+    "Recettes": "Chili de chorizo et boeuf dans un poivron farci, Poivrons farcis au quinoa et chorizo"
+  },
+  {
+    "Aliment": "ground beef",
+    "Quantité": 1360.77,
+    "Unité": "g",
+    "Recettes": "Poivrons farcis au quinoa et chorizo"
+  },
+  {
+    "Aliment": "gruyere cheese",
+    "Quantité": 132.0,
+    "Unité": "g",
+    "Recettes": "Chops de porc au fromage"
+  },
+  {
+    "Aliment": "guacamole",
+    "Quantité": 18.0,
+    "Unité": "tsps",
+    "Recettes": "Chili de poulet et haricots"
+  },
+  {
+    "Aliment": "heavy cream",
+    "Quantité": 238.0,
+    "Unité": "ml",
+    "Recettes": "Chops de porc au fromage"
+  },
+  {
+    "Aliment": "huile d’olive",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Poêlée de crevettes et courgettes"
+  },
+  {
+    "Aliment": "iceberg lettuce",
+    "Quantité": 9.0,
+    "Unité": "servings",
+    "Recettes": "Chili de poulet et haricots"
+  },
+  {
+    "Aliment": "jalapeño",
+    "Quantité": 3.0,
+    "Unité": "",
+    "Recettes": "Chili de poulet et haricots"
+  },
+  {
+    "Aliment": "juice of lime",
+    "Quantité": 0.5,
+    "Unité": "",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "lemon",
+    "Quantité": 3.0,
+    "Unité": "piece",
+    "Recettes": "Saumon aux asperges et riz"
+  },
+  {
+    "Aliment": "lentilles",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Chili de lentilles et quinoa"
+  },
+  {
+    "Aliment": "lime",
+    "Quantité": 3.0,
+    "Unité": "",
+    "Recettes": "Chili de poulet et haricots"
+  },
+  {
+    "Aliment": "lime juice",
+    "Quantité": 302.5,
+    "Unité": "ml",
+    "Recettes": "Tacos de poulet à la mijoteuse"
+  },
+  {
+    "Aliment": "maple syrup",
+    "Quantité": 2.0,
+    "Unité": "servings",
+    "Recettes": "Omelette aux œufs et légumes"
+  },
+  {
+    "Aliment": "mayonnaise",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Burgers de saumon asiatiques, Salade de crabe dans des poches de pita",
+    "Notes": "56.0 ml + 4.0 Tbsps"
+  },
+  {
+    "Aliment": "monterrey jack and cheddar cheese",
+    "Quantité": 84.75,
+    "Unité": "g",
+    "Recettes": "Poivrons farcis au quinoa et chorizo"
+  },
+  {
+    "Aliment": "oignons",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Chili de lentilles et quinoa"
+  },
+  {
+    "Aliment": "olive oil",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Boeuf aux champignons et riz, Chops de porc au fromage, Poulet grillé aux légumes",
+    "Notes": "8.0 tbsp + 5.0 tsp"
+  },
+  {
+    "Aliment": "onion",
+    "Quantité": 6.0,
+    "Unité": "medium",
+    "Recettes": "Boeuf aux champignons et riz, Poulet grillé aux légumes"
+  },
+  {
+    "Aliment": "oyster sauce",
+    "Quantité": 2.0,
+    "Unité": "tsp",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "parmesan cheese",
+    "Quantité": 300.0,
+    "Unité": "g",
+    "Recettes": "Pâtes carbonara"
+  },
+  {
+    "Aliment": "pasta",
+    "Quantité": 1200.0,
+    "Unité": "g",
+    "Recettes": "Pâtes carbonara"
+  },
+  {
+    "Aliment": "pepper",
+    "Quantité": 2.5,
+    "Unité": "tsps",
+    "Recettes": "Tacos de poulet à la mijoteuse"
+  },
+  {
+    "Aliment": "pork chops",
+    "Quantité": 8.0,
+    "Unité": "",
+    "Recettes": "Chops de porc au fromage"
+  },
+  {
+    "Aliment": "powdered ginger",
+    "Quantité": 1.0,
+    "Unité": "tsps",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "purple onion",
+    "Quantité": 5.0,
+    "Unité": "small",
+    "Recettes": "Tacos de poulet à la mijoteuse"
+  },
+  {
+    "Aliment": "refried beans",
+    "Quantité": 0.99,
+    "Unité": "can",
+    "Recettes": "Chili de poulet et haricots"
+  },
+  {
+    "Aliment": "rice",
+    "Quantité": 600.0,
+    "Unité": "g",
+    "Recettes": "Saumon aux asperges et riz"
+  },
+  {
+    "Aliment": "rolled oats",
+    "Quantité": 81.08,
+    "Unité": "g",
+    "Recettes": "Omelette aux œufs et légumes"
+  },
+  {
+    "Aliment": "rotisserie chicken",
+    "Quantité": 1419.54,
+    "Unité": "g",
+    "Recettes": "Chili de poulet et haricots"
+  },
+  {
+    "Aliment": "salmon",
+    "Quantité": 1653.59,
+    "Unité": "g",
+    "Recettes": "Burgers de saumon asiatiques, Saumon aux asperges et riz"
+  },
+  {
+    "Aliment": "salsa",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Chili de poulet et haricots, Tacos de poulet à la mijoteuse",
+    "Notes": "799.78 servings + 1190.67 g"
+  },
+  {
+    "Aliment": "salt & pepper",
+    "Quantité": 2.0,
+    "Unité": "servings",
+    "Recettes": "Salade de crabe dans des poches de pita"
+  },
+  {
+    "Aliment": "salt and pepper",
+    "Quantité": 8.0,
+    "Unité": "servings",
+    "Recettes": "Chops de porc au fromage"
+  },
+  {
+    "Aliment": "sesame oil",
+    "Quantité": 11.0,
+    "Unité": "Tbsps",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "sirloin beef tips",
+    "Quantité": 4535.9,
+    "Unité": "g",
+    "Recettes": "Boeuf aux champignons et riz"
+  },
+  {
+    "Aliment": "soy sauce",
+    "Quantité": 2.0,
+    "Unité": "Tbsp",
+    "Recettes": "Burgers de saumon asiatiques"
+  },
+  {
+    "Aliment": "taco seasoning",
+    "Quantité": 10.0,
+    "Unité": "Tbsps",
+    "Recettes": "Tacos de poulet à la mijoteuse"
+  },
+  {
+    "Aliment": "tomates",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Chili de lentilles et quinoa"
+  },
+  {
+    "Aliment": "tomato",
+    "Quantité": "",
+    "Unité": "",
+    "Recettes": "Chili de poulet et haricots, Salade de quinoa et poulet",
+    "Notes": "600.0 g + 1.5"
+  },
+  {
+    "Aliment": "water",
+    "Quantité": 591.45,
+    "Unité": "ml",
+    "Recettes": "Boeuf aux champignons et riz"
+  },
+  {
+    "Aliment": "watercress",
+    "Quantité": 2.0,
+    "Unité": "handfuls",
+    "Recettes": "Salade de crabe dans des poches de pita"
+  },
+  {
+    "Aliment": "wholewheat pita breads",
+    "Quantité": 2.0,
+    "Unité": "",
+    "Recettes": "Salade de crabe dans des poches de pita"
+  }
+]

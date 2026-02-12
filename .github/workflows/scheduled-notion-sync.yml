@@ -1,0 +1,59 @@
+name: Scheduled Notion Sync
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check cadence
+        run: |
+          day=$(( ($(date +%s) / 86400) % 3 ))
+          if [ "$day" -ne 0 ]; then
+            echo "Not 3rd-day cadence — skipping."
+            exit 78
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install notion-client python-dotenv
+
+      - name: Write .env
+        run: |
+          cat <<'EOF' > .env
+          NOTION_TOKEN=${{ secrets.NOTION_TOKEN }}
+          EOF
+
+      - name: Run Notion sync
+        run: python -m scripts.sync_notion
+
+      - name: Ensure dump exists
+        run: |
+          if ! ls data/notion_dump.* >/dev/null 2>&1; then
+            echo "Expected data/notion_dump.* to exist after sync."
+            exit 1
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/notion_dump.*
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "update via dispatch"
+            git push
+          fi
+

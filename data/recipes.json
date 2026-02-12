@@ -1,0 +1,2606 @@
+[
+  {
+    "id": "2a29b6cc-c7e4-8105-a669-fc33762ca8ae",
+    "url": "https://www.notion.so/Omelette-aux-ufs-et-l-gumes-2a29b6ccc7e48105a669fc33762ca8ae",
+    "created_time": "2025-11-05T22:03:00.000Z",
+    "last_edited_time": "2025-11-05T22:03:00.000Z",
+    "Calories": 411.0,
+    "Ingredients": "poudre de cacao, fromage cottage, œufs, sirop d'érable, flocons d'avoine",
+    "Temps": 25.0,
+    "Lien": "http://spoonacular.com/-1383233228884",
+    "Proteines": 26.0,
+    "Name": "Omelette aux œufs et légumes",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8107-b3ee-dd8d5759f22b",
+    "url": "https://www.notion.so/Chili-de-lentilles-et-quinoa-2a29b6ccc7e48107b3eedd8d5759f22b",
+    "created_time": "2025-11-05T22:47:00.000Z",
+    "last_edited_time": "2025-11-05T22:47:00.000Z",
+    "Calories": 450.0,
+    "Ingredients": "lentilles, quinoa, tomates, ail, cumin, oignons",
+    "Temps": 30.0,
+    "Lien": "https://spoonacular.com/...",
+    "Proteines": 32.0,
+    "Name": "Chili de lentilles et quinoa",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8108-aac7-ddc37d2551d8",
+    "url": "https://www.notion.so/Poivrons-farcis-au-quinoa-et-chorizo-2a29b6ccc7e48108aac7ddc37d2551d8",
+    "created_time": "2025-11-05T22:03:00.000Z",
+    "last_edited_time": "2025-11-05T22:03:00.000Z",
+    "Calories": 685.0,
+    "Ingredients": "poivrons, cayenne, poudre de chili, chorizo, cumin, oignons verts, fromage monterrey jack et cheddar, boeuf haché, quinoa",
+    "Temps": 30.0,
+    "Lien": "https://www.pinkwhen.com/chorizo-and-beef-quinoa-stuffed-pepper-recipe/",
+    "Proteines": 51.0,
+    "Name": "Poivrons farcis au quinoa et chorizo",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-810c-8953-fa54d06a74db",
+    "url": "https://www.notion.so/Chops-de-porc-au-fromage-2a29b6ccc7e4810c8953fa54d06a74db",
+    "created_time": "2025-11-05T22:01:00.000Z",
+    "last_edited_time": "2025-11-05T22:01:00.000Z",
+    "Calories": 416.0,
+    "Ingredients": "moutarde de dijon, fromage gruyère, crème épaisse, huile d'olive, côtelettes de porc, sel et poivre, beurre",
+    "Temps": 30.0,
+    "Lien": "https://www.foodista.com/recipe/B8SJ2DD4/cheese-pork-chops",
+    "Proteines": 35.0,
+    "Name": "Chops de porc au fromage",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8117-aa09-fd263f2a730b",
+    "url": "https://www.notion.so/Poulet-grill-aux-l-gumes-2a29b6ccc7e48117aa09fd263f2a730b",
+    "created_time": "2025-11-05T22:57:00.000Z",
+    "last_edited_time": "2025-11-05T22:57:00.000Z",
+    "Calories": 450.0,
+    "Ingredients": "poitrine de poulet, huile d’olive, poivron, oignon",
+    "Temps": 30.0,
+    "Lien": "https://example.com/poulet-grille",
+    "Proteines": 45.0,
+    "Name": "Poulet grillé aux légumes",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8119-b913-d65be0749136",
+    "url": "https://www.notion.so/Tacos-de-poulet-instantan-s-2a29b6ccc7e48119b913d65be0749136",
+    "created_time": "2025-11-05T22:01:00.000Z",
+    "last_edited_time": "2025-11-05T22:01:00.000Z",
+    "Calories": 546.0,
+    "Ingredients": "poivron, poitrines de poulet, jus de citron vert, oignon violet, salsa, assaisonnement pour tacos",
+    "Temps": 25.0,
+    "Lien": "https://www.pinkwhen.com/instant-pot-chicken-tacos/",
+    "Proteines": 97.0,
+    "Name": "Tacos de poulet instantanés",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-811d-ad38-c342155abe59",
+    "url": "https://www.notion.so/P-tes-carbonara-2a29b6ccc7e4811dad38c342155abe59",
+    "created_time": "2025-11-05T22:57:00.000Z",
+    "last_edited_time": "2025-11-05T22:57:00.000Z",
+    "Calories": 580.0,
+    "Ingredients": "pâtes, bacon, œuf, fromage parmesan",
+    "Temps": 15.0,
+    "Lien": "https://example.com/carbonara",
+    "Proteines": 28.0,
+    "Name": "Pâtes carbonara",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8122-8adc-f2692b70616e",
+    "url": "https://www.notion.so/Boeuf-aux-champignons-et-riz-2a29b6ccc7e481228adcf2692b70616e",
+    "created_time": "2025-11-05T22:47:00.000Z",
+    "last_edited_time": "2025-11-05T22:47:00.000Z",
+    "Calories": 371.0,
+    "Ingredients": "morceaux de boeuf, soupe de champignons, poudre d'ail, sauce d'assaisonnement, huile d'olive, oignon, eau",
+    "Temps": 30.0,
+    "Lien": "https://www.pinkwhen.com/beef-tips-and-rice/",
+    "Proteines": 53.0,
+    "Name": "Boeuf aux champignons et riz",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8127-939d-c3c4b3dafec3",
+    "url": "https://www.notion.so/Saumon-aux-asperges-et-riz-2a29b6ccc7e48127939dc3c4b3dafec3",
+    "created_time": "2025-11-05T23:14:00.000Z",
+    "last_edited_time": "2025-11-05T23:14:00.000Z",
+    "Calories": 520.0,
+    "Ingredients": "saumon, asperges, riz, citron",
+    "Temps": 25.0,
+    "Lien": "https://example.com/saumon-asperges",
+    "Proteines": 38.0,
+    "Name": "Saumon aux asperges et riz",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-812c-9dfc-e8ce5d31e509",
+    "url": "https://www.notion.so/Boeuf-aux-champignons-et-riz-2a29b6ccc7e4812c9dfce8ce5d31e509",
+    "created_time": "2025-11-05T22:01:00.000Z",
+    "last_edited_time": "2025-11-05T22:01:00.000Z",
+    "Calories": 371.0,
+    "Ingredients": "morceaux de boeuf, soupe de champignons, poudre d'ail, sauce d'assaisonnement, huile d'olive, oignon, eau",
+    "Temps": 30.0,
+    "Lien": "https://www.pinkwhen.com/beef-tips-and-rice/",
+    "Proteines": 53.0,
+    "Name": "Boeuf aux champignons et riz",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8145-82bc-e8ba1d6ddf4c",
+    "url": "https://www.notion.so/P-tes-carbonara-2a29b6ccc7e4814582bce8ba1d6ddf4c",
+    "created_time": "2025-11-05T23:14:00.000Z",
+    "last_edited_time": "2025-11-05T23:14:00.000Z",
+    "Calories": 580.0,
+    "Ingredients": "pâtes, bacon, œuf, fromage parmesan",
+    "Temps": 15.0,
+    "Lien": "https://example.com/carbonara",
+    "Proteines": 28.0,
+    "Name": "Pâtes carbonara",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8148-af4f-f0579f2a8df4",
+    "url": "https://www.notion.so/Chili-de-poulet-et-haricots-2a29b6ccc7e48148af4ff0579f2a8df4",
+    "created_time": "2025-11-05T22:03:00.000Z",
+    "last_edited_time": "2025-11-05T22:03:00.000Z",
+    "Calories": 558.0,
+    "Ingredients": "poulet rôti, tortillas de maïs, haricots refrits, tomate, jalapeño, laitue iceberg, fromage cotija, citron vert, guacamole, salsa",
+    "Temps": 30.0,
+    "Lien": "https://www.foodista.com/recipe/YQF7DW47/rotisserie-chicken-and-bean-toastatas",
+    "Proteines": 54.0,
+    "Name": "Chili de poulet et haricots",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8149-ace8-c4f91db6afad",
+    "url": "https://www.notion.so/Salade-de-quinoa-et-poulet-2a29b6ccc7e48149ace8c4f91db6afad",
+    "created_time": "2025-11-05T23:14:00.000Z",
+    "last_edited_time": "2025-11-05T23:14:00.000Z",
+    "Calories": 420.0,
+    "Ingredients": "quinoa, poitrine de poulet, concombre, tomate, fromage feta",
+    "Temps": 20.0,
+    "Lien": "https://example.com/salade-quinoa",
+    "Proteines": 35.0,
+    "Name": "Salade de quinoa et poulet",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8156-8516-f46defff1066",
+    "url": "https://www.notion.so/Burgers-de-saumon-asiatiques-2a29b6ccc7e481568516f46defff1066",
+    "created_time": "2025-11-05T22:51:00.000Z",
+    "last_edited_time": "2025-11-05T22:51:00.000Z",
+    "Calories": 565.0,
+    "Ingredients": "petits pains à hamburger, basilic, ail, oignon vert, jus de lime, mayonnaise, sauce aux huîtres, gingembre en poudre, saumon, huile de sésame",
+    "Temps": 30.0,
+    "Lien": "https://www.foodista.com/recipe/FRT38YTC/asian-salmon-burgers-with-tangy-ginger-lime-sauce",
+    "Proteines": 28.0,
+    "Name": "Burgers de saumon asiatiques",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-815a-ad8d-c32b4e728631",
+    "url": "https://www.notion.so/Salade-de-quinoa-et-poulet-2a29b6ccc7e4815aad8dc32b4e728631",
+    "created_time": "2025-11-05T23:16:00.000Z",
+    "last_edited_time": "2025-11-05T23:16:00.000Z",
+    "Calories": 420.0,
+    "Ingredients": "quinoa, poitrine de poulet, concombre, tomate, fromage feta",
+    "Temps": 20.0,
+    "Lien": "https://example.com/salade-quinoa",
+    "Proteines": 35.0,
+    "Name": "Salade de quinoa et poulet",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8160-950c-c85dabebfeec",
+    "url": "https://www.notion.so/Chili-de-lentilles-et-quinoa-2a29b6ccc7e48160950cc85dabebfeec",
+    "created_time": "2025-11-05T22:01:00.000Z",
+    "last_edited_time": "2025-11-05T22:01:00.000Z",
+    "Calories": 450.0,
+    "Ingredients": "lentilles, quinoa, tomates, ail, cumin, oignons",
+    "Temps": 30.0,
+    "Lien": "https://spoonacular.com/...",
+    "Proteines": 32.0,
+    "Name": "Chili de lentilles et quinoa",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-816c-9843-c89e3c9e8ebf",
+    "url": "https://www.notion.so/Boeuf-aux-champignons-et-riz-2a29b6ccc7e4816c9843c89e3c9e8ebf",
+    "created_time": "2025-11-05T22:03:00.000Z",
+    "last_edited_time": "2025-11-05T22:03:00.000Z",
+    "Calories": 371.0,
+    "Ingredients": "morceaux de boeuf, soupe de champignons, poudre d'ail, sauce d'assaisonnement, huile d'olive, oignon, eau",
+    "Temps": 30.0,
+    "Lien": "https://www.pinkwhen.com/beef-tips-and-rice/",
+    "Proteines": 53.0,
+    "Name": "Boeuf aux champignons et riz",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-816d-b5c4-c67b703b7aae",
+    "url": "https://www.notion.so/Chops-de-porc-au-fromage-2a29b6ccc7e4816db5c4c67b703b7aae",
+    "created_time": "2025-11-05T22:51:00.000Z",
+    "last_edited_time": "2025-11-05T22:51:00.000Z",
+    "Calories": 416.0,
+    "Ingredients": "moutarde de dijon, fromage gruyère, crème épaisse, huile d'olive, côtelettes de porc, sel et poivre, beurre",
+    "Temps": 30.0,
+    "Lien": "https://www.foodista.com/recipe/B8SJ2DD4/cheese-pork-chops",
+    "Proteines": 35.0,
+    "Name": "Chops de porc au fromage",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-816d-b8de-cafb256f3511",
+    "url": "https://www.notion.so/Salade-de-quinoa-et-poulet-2a29b6ccc7e4816db8decafb256f3511",
+    "created_time": "2025-11-05T22:57:00.000Z",
+    "last_edited_time": "2025-11-05T22:57:00.000Z",
+    "Calories": 420.0,
+    "Ingredients": "quinoa, poitrine de poulet, concombre, tomate, fromage feta",
+    "Temps": 20.0,
+    "Lien": "https://example.com/salade-quinoa",
+    "Proteines": 35.0,
+    "Name": "Salade de quinoa et poulet",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8171-b1b4-c407c1920d11",
+    "url": "https://www.notion.so/Tacos-de-poulet-la-mijoteuse-2a29b6ccc7e48171b1b4c407c1920d11",
+    "created_time": "2025-11-05T22:51:00.000Z",
+    "last_edited_time": "2025-11-05T22:51:00.000Z",
+    "Calories": 546.0,
+    "Ingredients": "poivron, poitrines de poulet, jus de citron vert, oignon rouge, salsa, assaisonnement pour tacos",
+    "Temps": 25.0,
+    "Lien": "https://www.pinkwhen.com/instant-pot-chicken-tacos/",
+    "Proteines": 97.0,
+    "Name": "Tacos de poulet à la mijoteuse",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8182-9048-cb1d298385b7",
+    "url": "https://www.notion.so/Boeuf-aux-champignons-et-riz-2a29b6ccc7e481829048cb1d298385b7",
+    "created_time": "2025-11-05T22:33:00.000Z",
+    "last_edited_time": "2025-11-05T22:33:00.000Z",
+    "Calories": 371.0,
+    "Ingredients": "morceaux de boeuf, crème de champignons, ail en poudre, sauce d'assaisonnement, huile d'olive, oignon, eau",
+    "Temps": 30.0,
+    "Lien": "https://www.pinkwhen.com/beef-tips-and-rice/",
+    "Proteines": 53.0,
+    "Name": "Boeuf aux champignons et riz",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-8186-a932-f0fdf9de3dd2",
+    "url": "https://www.notion.so/Tacos-de-poulet-la-mijoteuse-2a29b6ccc7e48186a932f0fdf9de3dd2",
+    "created_time": "2025-11-05T22:33:00.000Z",
+    "last_edited_time": "2025-11-05T22:33:00.000Z",
+    "Calories": 546.0,
+    "Ingredients": "poivron, poitrines de poulet, jus de citron vert, oignon rouge, salsa, épices à tacos",
+    "Temps": 25.0,
+    "Lien": "https://www.pinkwhen.com/instant-pot-chicken-tacos/",
+    "Proteines": 97.0,
+    "Name": "Tacos de poulet à la mijoteuse",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-818e-ac67-cd198a1818e0",
+    "url": "https://www.notion.so/Poulet-grill-aux-l-gumes-2a29b6ccc7e4818eac67cd198a1818e0",
+    "created_time": "2025-11-05T23:14:00.000Z",
+    "last_edited_time": "2025-11-05T23:14:00.000Z",
+    "Calories": 450.0,
+    "Ingredients": "poitrine de poulet, huile d’olive, poivron, oignon",
+    "Temps": 30.0,
+    "Lien": "https://example.com/poulet-grille",
+    "Proteines": 45.0,
+    "Name": "Poulet grillé aux légumes",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-819c-a6d7-f41f736b31ca",
+    "url": "https://www.notion.so/Saumon-aux-asperges-et-riz-2a29b6ccc7e4819ca6d7f41f736b31ca",
+    "created_time": "2025-11-05T23:16:00.000Z",
+    "last_edited_time": "2025-11-05T23:16:00.000Z",
+    "Calories": 520.0,
+    "Ingredients": "saumon, asperges, riz, citron",
+    "Temps": 25.0,
+    "Lien": "https://example.com/saumon-asperges",
+    "Proteines": 38.0,
+    "Name": "Saumon aux asperges et riz",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81a5-b079-e1159bee36a6",
+    "url": "https://www.notion.so/Chili-de-lentilles-et-quinoa-2a29b6ccc7e481a5b079e1159bee36a6",
+    "created_time": "2025-11-05T22:51:00.000Z",
+    "last_edited_time": "2025-11-05T22:51:00.000Z",
+    "Calories": 450.0,
+    "Ingredients": "lentilles, quinoa, tomates, ail, cumin, oignons",
+    "Temps": 30.0,
+    "Lien": "https://spoonacular.com/...",
+    "Proteines": 32.0,
+    "Name": "Chili de lentilles et quinoa",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81b6-ab9f-de242310392d",
+    "url": "https://www.notion.so/P-tes-carbonara-2a29b6ccc7e481b6ab9fde242310392d",
+    "created_time": "2025-11-05T23:16:00.000Z",
+    "last_edited_time": "2025-11-05T23:16:00.000Z",
+    "Calories": 580.0,
+    "Ingredients": "pâtes, bacon, œuf, fromage parmesan",
+    "Temps": 15.0,
+    "Lien": "https://example.com/carbonara",
+    "Proteines": 28.0,
+    "Name": "Pâtes carbonara",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81b9-895f-c1b5d8b1e17f",
+    "url": "https://www.notion.so/Salade-de-crabe-dans-des-poches-de-pita-2a29b6ccc7e481b9895fc1b5d8b1e17f",
+    "created_time": "2025-11-05T22:33:00.000Z",
+    "last_edited_time": "2025-11-05T22:33:00.000Z",
+    "Calories": 418.0,
+    "Ingredients": "pomme, chair de crabe, coriandre, mayonnaise, pains pita de blé entier, sel, poivre, cresson, poivron",
+    "Temps": 25.0,
+    "Lien": "https://www.foodista.com/recipe/4NJDB7X2/crab-salad-stuffed-pita-pockets",
+    "Proteines": 39.0,
+    "Name": "Salade de crabe dans des poches de pita",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81c0-b92d-d08fca13b15f",
+    "url": "https://www.notion.so/Burgers-de-saumon-asiatiques-2a29b6ccc7e481c0b92dd08fca13b15f",
+    "created_time": "2025-11-05T22:01:00.000Z",
+    "last_edited_time": "2025-11-05T22:01:00.000Z",
+    "Calories": 565.0,
+    "Ingredients": "petits pains à burger, basilic, ail, oignons verts, jus de citron vert, mayonnaise, sauce aux huîtres, gingembre en poudre, saumon, huile de sésame",
+    "Temps": 30.0,
+    "Lien": "https://www.foodista.com/recipe/FRT38YTC/asian-salmon-burgers-with-tangy-ginger-lime-sauce",
+    "Proteines": 28.0,
+    "Name": "Burgers de saumon asiatiques",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81ca-b1d3-cd4c283743bb",
+    "url": "https://www.notion.so/Poivrons-farcis-au-quinoa-et-chorizo-2a29b6ccc7e481cab1d3cd4c283743bb",
+    "created_time": "2025-11-05T22:33:00.000Z",
+    "last_edited_time": "2025-11-05T22:33:00.000Z",
+    "Calories": 685.0,
+    "Ingredients": "poivrons, piment de cayenne, poudre de chili, chorizo, cumin, oignons verts, fromage monterrey jack et cheddar, boeuf haché, quinoa",
+    "Temps": 30.0,
+    "Lien": "https://www.pinkwhen.com/chorizo-and-beef-quinoa-stuffed-pepper-recipe/",
+    "Proteines": 51.0,
+    "Name": "Poivrons farcis au quinoa et chorizo",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81d9-96ac-f88178819bcd",
+    "url": "https://www.notion.so/Po-l-e-de-crevettes-et-courgettes-2a29b6ccc7e481d996acf88178819bcd",
+    "created_time": "2025-11-05T22:47:00.000Z",
+    "last_edited_time": "2025-11-05T22:47:00.000Z",
+    "Calories": 460.0,
+    "Ingredients": "crevettes, courgettes, riz complet, ail, huile d’olive",
+    "Temps": 30.0,
+    "Lien": "https://spoonacular.com/...",
+    "Proteines": 40.0,
+    "Name": "Poêlée de crevettes et courgettes",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81d9-9bae-e4b488249167",
+    "url": "https://www.notion.so/Chili-de-chorizo-et-boeuf-dans-un-poivron-farci-2a29b6ccc7e481d99baee4b488249167",
+    "created_time": "2025-11-05T22:48:00.000Z",
+    "last_edited_time": "2025-11-05T22:48:00.000Z",
+    "Calories": 685.0,
+    "Ingredients": "poivrons, piment de cayenne, poudre de chili, chorizo, cumin, oignons verts, fromage monterrey jack et cheddar, boeuf haché, quinoa",
+    "Temps": 30.0,
+    "Lien": "https://www.pinkwhen.com/chorizo-and-beef-quinoa-stuffed-pepper-recipe/",
+    "Proteines": 51.0,
+    "Name": "Chili de chorizo et boeuf dans un poivron farci",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81df-afbf-cbc2de4bc7d6",
+    "url": "https://www.notion.so/Chili-de-poulet-et-haricots-2a29b6ccc7e481dfafbfcbc2de4bc7d6",
+    "created_time": "2025-11-05T22:33:00.000Z",
+    "last_edited_time": "2025-11-05T22:33:00.000Z",
+    "Calories": 558.0,
+    "Ingredients": "poulet rôti, tortillas de maïs, haricots frits, tomate, jalapeño, laitue iceberg, fromage cotija, lime, guacamole, salsa",
+    "Temps": 30.0,
+    "Lien": "https://www.foodista.com/recipe/YQF7DW47/rotisserie-chicken-and-bean-toastatas",
+    "Proteines": 54.0,
+    "Name": "Chili de poulet et haricots",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81e0-92d9-e4e62a280d68",
+    "url": "https://www.notion.so/Saumon-aux-asperges-et-riz-2a29b6ccc7e481e092d9e4e62a280d68",
+    "created_time": "2025-11-05T22:57:00.000Z",
+    "last_edited_time": "2025-11-05T22:57:00.000Z",
+    "Calories": 520.0,
+    "Ingredients": "saumon, asperges, riz, citron",
+    "Temps": 25.0,
+    "Lien": "https://example.com/saumon-asperges",
+    "Proteines": 38.0,
+    "Name": "Saumon aux asperges et riz",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81eb-a5d7-e45c1b93dbc5",
+    "url": "https://www.notion.so/Poulet-grill-aux-l-gumes-2a29b6ccc7e481eba5d7e45c1b93dbc5",
+    "created_time": "2025-11-05T23:16:00.000Z",
+    "last_edited_time": "2025-11-05T23:16:00.000Z",
+    "Calories": 450.0,
+    "Ingredients": "poitrine de poulet, huile d’olive, poivron, oignon",
+    "Temps": 30.0,
+    "Lien": "https://example.com/poulet-grille",
+    "Proteines": 45.0,
+    "Name": "Poulet grillé aux légumes",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81f7-8272-c77c9d94a311",
+    "url": "https://www.notion.so/Tacos-de-poulet-la-mijoteuse-2a29b6ccc7e481f78272c77c9d94a311",
+    "created_time": "2025-11-05T22:03:00.000Z",
+    "last_edited_time": "2025-11-05T22:03:00.000Z",
+    "Calories": 546.0,
+    "Ingredients": "poivron, poitrines de poulet, jus de citron vert, oignon rouge, salsa, assaisonnement pour tacos",
+    "Temps": 25.0,
+    "Lien": "https://www.pinkwhen.com/instant-pot-chicken-tacos/",
+    "Proteines": 97.0,
+    "Name": "Tacos de poulet à la mijoteuse",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81f8-bd63-cc737ec2e046",
+    "url": "https://www.notion.so/Boeuf-aux-champignons-et-riz-2a29b6ccc7e481f8bd63cc737ec2e046",
+    "created_time": "2025-11-05T22:51:00.000Z",
+    "last_edited_time": "2025-11-05T22:51:00.000Z",
+    "Calories": 371.0,
+    "Ingredients": "morceaux de boeuf, soupe de champignons, poudre d'ail, sauce d'assaisonnement, huile d'olive, oignon, eau",
+    "Temps": 30.0,
+    "Lien": "https://www.pinkwhen.com/beef-tips-and-rice/",
+    "Proteines": 53.0,
+    "Name": "Boeuf aux champignons et riz",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a29b6cc-c7e4-81fe-9162-d2580e1db03b",
+    "url": "https://www.notion.so/Tacos-de-poulet-la-mijoteuse-2a29b6ccc7e481fe9162d2580e1db03b",
+    "created_time": "2025-11-05T22:47:00.000Z",
+    "last_edited_time": "2025-11-05T22:47:00.000Z",
+    "Calories": 546.0,
+    "Ingredients": "poivron, poitrines de poulet, jus de citron vert, oignon rouge, salsa, assaisonnement pour tacos",
+    "Temps": 25.0,
+    "Lien": "https://www.pinkwhen.com/instant-pot-chicken-tacos/",
+    "Proteines": 97.0,
+    "Name": "Tacos de poulet à la mijoteuse",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a39b6cc-c7e4-8107-9ddc-c4890a75a50d",
+    "url": "https://www.notion.so/Burgers-de-saumon-asiatiques-2a39b6ccc7e481079ddcc4890a75a50d",
+    "created_time": "2025-11-06T09:34:00.000Z",
+    "last_edited_time": "2025-11-06T09:34:00.000Z",
+    "Calories": 565.0,
+    "Ingredients": "petits pains à hamburger, basilic, ail, oignons verts, jus de lime, mayonnaise, sauce aux huîtres, gingembre en poudre, saumon, huile de sésame",
+    "Temps": 30.0,
+    "Lien": "https://www.foodista.com/recipe/FRT38YTC/asian-salmon-burgers-with-tangy-ginger-lime-sauce",
+    "Proteines": 28.0,
+    "Name": "Burgers de saumon asiatiques",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a39b6cc-c7e4-813f-add1-cccd40f1aab2",
+    "url": "https://www.notion.so/Tacos-de-poulet-la-mijoteuse-2a39b6ccc7e4813fadd1cccd40f1aab2",
+    "created_time": "2025-11-06T09:34:00.000Z",
+    "last_edited_time": "2025-11-06T09:34:00.000Z",
+    "Calories": 546.0,
+    "Ingredients": "poivron, poitrines de poulet, jus de lime, oignon rouge, salsa, assaisonnement pour tacos",
+    "Temps": 25.0,
+    "Lien": "https://www.pinkwhen.com/instant-pot-chicken-tacos/",
+    "Proteines": 97.0,
+    "Name": "Tacos de poulet à la mijoteuse",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a39b6cc-c7e4-8154-9b18-eeb3174ee000",
+    "url": "https://www.notion.so/Chili-de-poulet-et-haricots-2a39b6ccc7e481549b18eeb3174ee000",
+    "created_time": "2025-11-06T09:34:00.000Z",
+    "last_edited_time": "2025-11-06T09:34:00.000Z",
+    "Calories": 558.0,
+    "Ingredients": "poulet rôti, tortillas de maïs, haricots refrits, tomate, jalapeño, laitue iceberg, fromage cotija, lime, guacamole, salsa",
+    "Temps": 30.0,
+    "Lien": "https://www.foodista.com/recipe/YQF7DW47/rotisserie-chicken-and-bean-toastatas",
+    "Proteines": 54.0,
+    "Name": "Chili de poulet et haricots",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a39b6cc-c7e4-8196-ba1c-fd3f1704a003",
+    "url": "https://www.notion.so/Chops-de-porc-au-fromage-2a39b6ccc7e48196ba1cfd3f1704a003",
+    "created_time": "2025-11-06T09:34:00.000Z",
+    "last_edited_time": "2025-11-06T09:34:00.000Z",
+    "Calories": 416.0,
+    "Ingredients": "moutarde de dijon, fromage gruyère, crème épaisse, huile d'olive, côtelettes de porc, sel et poivre, beurre",
+    "Temps": 30.0,
+    "Lien": "https://www.foodista.com/recipe/B8SJ2DD4/cheese-pork-chops",
+    "Proteines": 35.0,
+    "Name": "Chops de porc au fromage",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  },
+  {
+    "id": "2a39b6cc-c7e4-81a0-a814-fa5cd04337a1",
+    "url": "https://www.notion.so/Boeuf-aux-champignons-et-riz-2a39b6ccc7e481a0a814fa5cd04337a1",
+    "created_time": "2025-11-06T09:34:00.000Z",
+    "last_edited_time": "2025-11-06T09:34:00.000Z",
+    "Calories": 371.0,
+    "Ingredients": "morceaux de boeuf, crème de champignons, poudre d'ail, sauce d'assaisonnement, huile d'olive, oignon, eau",
+    "Temps": 30.0,
+    "Lien": "https://www.pinkwhen.com/beef-tips-and-rice/",
+    "Proteines": 53.0,
+    "Name": "Boeuf aux champignons et riz",
+    "__schema__": {
+      "Calories": {
+        "id": "BwYs",
+        "name": "Calories",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Ingredients": {
+        "id": "DhCp",
+        "name": "Ingredients",
+        "description": null,
+        "type": "rich_text",
+        "rich_text": {}
+      },
+      "Temps": {
+        "id": "Hzl%3D",
+        "name": "Temps",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Lien": {
+        "id": "%60Zoi",
+        "name": "Lien",
+        "description": null,
+        "type": "url",
+        "url": {}
+      },
+      "Proteines": {
+        "id": "q%3FTj",
+        "name": "Proteines",
+        "description": null,
+        "type": "number",
+        "number": {
+          "format": "number"
+        }
+      },
+      "Name": {
+        "id": "title",
+        "name": "Name",
+        "description": null,
+        "type": "title",
+        "title": {}
+      }
+    }
+  }
+]

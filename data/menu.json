@@ -1,0 +1,469 @@
+[
+  {
+    "title": "Holiday Egg Nog",
+    "readyMinutes": 45,
+    "servings": 4,
+    "sourceUrl": "https://www.foodista.com/recipe/83K63F6K/holiday-egg-nog",
+    "image": "https://img.spoonacular.com/recipes/646833-312x231.jpg",
+    "ingredients": [
+      {
+        "name": "allspice",
+        "amount": 0.25,
+        "unit": "tsps"
+      },
+      {
+        "name": "cinnamon",
+        "amount": 0.5,
+        "unit": "tsps"
+      },
+      {
+        "name": "egg yolks",
+        "amount": 4.0,
+        "unit": null
+      },
+      {
+        "name": "heavy cream",
+        "amount": 238.0,
+        "unit": "ml"
+      },
+      {
+        "name": "milk",
+        "amount": 488.0,
+        "unit": "ml"
+      },
+      {
+        "name": "nutmeg",
+        "amount": 0.5,
+        "unit": "tsps"
+      },
+      {
+        "name": "sugar",
+        "amount": 100.0,
+        "unit": "g"
+      }
+    ],
+    "nutrition": {
+      "calories": 431.97,
+      "protein": 8.59,
+      "carbs": 33.35,
+      "fat": 30.34
+    },
+    "id": 646833,
+    "Semaine": "Semaine 46 – 2025"
+  },
+  {
+    "title": "Meatball Sliders",
+    "readyMinutes": 45,
+    "servings": 20,
+    "sourceUrl": "https://www.foodista.com/recipe/NWGNDD3J/meatball-sliders",
+    "image": "https://img.spoonacular.com/recipes/651341-312x231.jpg",
+    "ingredients": [
+      {
+        "name": "california bay leaf",
+        "amount": 0.5,
+        "unit": null
+      },
+      {
+        "name": "coarse bread crumbs",
+        "amount": 135.0,
+        "unit": "g"
+      },
+      {
+        "name": "marjoram",
+        "amount": 0.5,
+        "unit": "tsps"
+      },
+      {
+        "name": "eggs",
+        "amount": 2.0,
+        "unit": "large"
+      },
+      {
+        "name": "flat-leaf parsley",
+        "amount": 30.0,
+        "unit": "g"
+      },
+      {
+        "name": "garlic cloves",
+        "amount": 4.0,
+        "unit": null
+      },
+      {
+        "name": "garlic cloves",
+        "amount": 5.0,
+        "unit": null
+      },
+      {
+        "name": "ground pork",
+        "amount": 453.592,
+        "unit": "g"
+      },
+      {
+        "name": "ground beef",
+        "amount": 453.592,
+        "unit": "g"
+      },
+      {
+        "name": "olive oil",
+        "amount": 54.0,
+        "unit": "ml"
+      },
+      {
+        "name": "oregano",
+        "amount": 0.5,
+        "unit": "tsps"
+      },
+      {
+        "name": "parmesan",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "slider buns",
+        "amount": 20.0,
+        "unit": "small"
+      },
+      {
+        "name": "sugar",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "tomatoes in juice",
+        "amount": 1.588,
+        "unit": "kgs"
+      },
+      {
+        "name": "vegetable oil",
+        "amount": 436.0,
+        "unit": "ml"
+      },
+      {
+        "name": "milk",
+        "amount": 162.667,
+        "unit": "ml"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": "medium"
+      }
+    ],
+    "nutrition": {
+      "calories": 322.54,
+      "protein": 16.27,
+      "carbs": 25.42,
+      "fat": 17.31
+    },
+    "id": 651341,
+    "Semaine": "Semaine 46 – 2025"
+  },
+  {
+    "title": "Charlotte Potato Salad",
+    "readyMinutes": 30,
+    "servings": 4,
+    "sourceUrl": "https://www.foodista.com/recipe/8MHQWYGF/charlotte-potato-salad",
+    "image": "https://img.spoonacular.com/recipes/637458-312x231.jpg",
+    "ingredients": [
+      {
+        "name": "bacon cubes",
+        "amount": 75.0,
+        "unit": "g"
+      },
+      {
+        "name": "dijon mustard",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "parsley",
+        "amount": 1.0,
+        "unit": "pinch"
+      },
+      {
+        "name": "juice of lemon",
+        "amount": 0.5,
+        "unit": null
+      },
+      {
+        "name": "olive oil",
+        "amount": 40.0,
+        "unit": "ml"
+      },
+      {
+        "name": "charlotte potatoes",
+        "amount": 500.0,
+        "unit": "g"
+      },
+      {
+        "name": "salt and pepper",
+        "amount": 4.0,
+        "unit": "servings"
+      },
+      {
+        "name": "spring onions",
+        "amount": 1.0,
+        "unit": "stalk"
+      }
+    ],
+    "nutrition": {
+      "calories": 258.67,
+      "protein": 5.09,
+      "carbs": 22.81,
+      "fat": 16.76
+    },
+    "id": 637458,
+    "Semaine": "Semaine 46 – 2025"
+  },
+  {
+    "title": "Grandma Inez's Pineapple Pie",
+    "readyMinutes": 45,
+    "servings": 6,
+    "sourceUrl": "https://www.foodista.com/recipe/PDS7JZ6J/grandma-inezs-pineapple-pie",
+    "image": "https://img.spoonacular.com/recipes/645147-312x231.jpg",
+    "ingredients": [
+      {
+        "name": "butter",
+        "amount": 2.0,
+        "unit": "Tbsps"
+      },
+      {
+        "name": "pineapple",
+        "amount": 226.796,
+        "unit": "g"
+      },
+      {
+        "name": "cornstarch",
+        "amount": 42.667,
+        "unit": "g"
+      },
+      {
+        "name": "cream of tartar",
+        "amount": 0.25,
+        "unit": "tsps"
+      },
+      {
+        "name": "egg whites",
+        "amount": 2.0,
+        "unit": null
+      },
+      {
+        "name": "egg yolks",
+        "amount": 2.0,
+        "unit": null
+      },
+      {
+        "name": "pre-baked pie crust",
+        "amount": 1.0,
+        "unit": "9-inch"
+      },
+      {
+        "name": "salt",
+        "amount": 0.125,
+        "unit": "tsps"
+      },
+      {
+        "name": "sugar",
+        "amount": 50.0,
+        "unit": "g"
+      },
+      {
+        "name": "sugar",
+        "amount": 150.0,
+        "unit": "g"
+      },
+      {
+        "name": "vanilla",
+        "amount": 0.5,
+        "unit": "tsps"
+      },
+      {
+        "name": "vanilla",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "t water",
+        "amount": 118.294,
+        "unit": "ml"
+      }
+    ],
+    "nutrition": {
+      "calories": 391.62,
+      "protein": 4.35,
+      "carbs": 62.27,
+      "fat": 14.23
+    },
+    "id": 645147,
+    "Semaine": "Semaine 46 – 2025"
+  },
+  {
+    "title": "Moroccan kofte and sausage stew",
+    "readyMinutes": 45,
+    "servings": 8,
+    "sourceUrl": "https://www.foodista.com/recipe/FJKC8HRG/moroccan-kofte-and-sausage-stew",
+    "image": "https://img.spoonacular.com/recipes/652427-312x231.jpg",
+    "ingredients": [
+      {
+        "name": "beef",
+        "amount": 600.0,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "amount": 1.0,
+        "unit": null
+      },
+      {
+        "name": "chilli",
+        "amount": 1.0,
+        "unit": null
+      },
+      {
+        "name": "ground cumin",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground cloves",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "coriander half",
+        "amount": 1.0,
+        "unit": "leaf"
+      },
+      {
+        "name": "ground coriander",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "egg",
+        "amount": 1.0,
+        "unit": null
+      },
+      {
+        "name": "sea salt",
+        "amount": 0.5,
+        "unit": "tsps"
+      },
+      {
+        "name": "sausage",
+        "amount": 250.0,
+        "unit": "g"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2.0,
+        "unit": "Tbsps"
+      },
+      {
+        "name": "harissa",
+        "amount": 2.0,
+        "unit": "Tbsps"
+      },
+      {
+        "name": "tomato",
+        "amount": 480.0,
+        "unit": "g"
+      },
+      {
+        "name": "chicken stock",
+        "amount": 400.0,
+        "unit": "ml"
+      },
+      {
+        "name": "cinnamon",
+        "amount": 0.25,
+        "unit": "tsps"
+      },
+      {
+        "name": "chili peppers",
+        "amount": 10.0,
+        "unit": null
+      },
+      {
+        "name": "garlic",
+        "amount": 3.0,
+        "unit": "cloves"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsps"
+      },
+      {
+        "name": "ground caraway seeds",
+        "amount": 1.0,
+        "unit": "tsp"
+      },
+      {
+        "name": "cumin",
+        "amount": 0.5,
+        "unit": "tsps"
+      }
+    ],
+    "nutrition": {
+      "calories": 372.17,
+      "protein": 20.75,
+      "carbs": 8.16,
+      "fat": 28.33
+    },
+    "id": 652427,
+    "Semaine": "Semaine 46 – 2025"
+  },
+  {
+    "title": "Peach & Brown Sugar Pancakes",
+    "readyMinutes": 45,
+    "servings": 2,
+    "sourceUrl": "https://www.foodista.com/recipe/6X3T8N7B/peach-brown-sugar-pancakes",
+    "image": "https://img.spoonacular.com/recipes/655060-312x231.jpg",
+    "ingredients": [
+      {
+        "name": "brown sugar",
+        "amount": 0.5,
+        "unit": "tsps"
+      },
+      {
+        "name": "egg",
+        "amount": 1.0,
+        "unit": null
+      },
+      {
+        "name": "milk",
+        "amount": 183.0,
+        "unit": "ml"
+      },
+      {
+        "name": "pancake mix",
+        "amount": 130.0,
+        "unit": "ml"
+      },
+      {
+        "name": "peaches",
+        "amount": 0.75,
+        "unit": "can"
+      },
+      {
+        "name": "shortening",
+        "amount": 2.0,
+        "unit": "Tbsps"
+      },
+      {
+        "name": "vegetable oil",
+        "amount": 1.0,
+        "unit": "Tbsp"
+      }
+    ],
+    "nutrition": {
+      "calories": 473.16,
+      "protein": 12.32,
+      "carbs": 40.56,
+      "fat": 30.06
+    },
+    "id": 655060,
+    "Semaine": "Semaine 46 – 2025"
+  }
+]

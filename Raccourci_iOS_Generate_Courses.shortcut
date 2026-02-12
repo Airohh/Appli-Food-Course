@@ -1,0 +1,86 @@
+{
+  "WFWorkflowActions": [
+    {
+      "WFWorkflowActionIdentifier": "is.workflow.actions.getcontentsofurl",
+      "WFWorkflowActionParameters": {
+        "WFHTTPMethod": "POST",
+        "WFHTTPHeaders": {
+          "Value": {
+            "WFDictionaryFieldValueItems": [
+              {
+                "WFKey": "Authorization",
+                "WFValue": {
+                  "Value": "Bearer VOTRE_TOKEN_GITHUB",
+                  "WFSerializationType": "WFTextTokenAttachment"
+                }
+              },
+              {
+                "WFKey": "Accept",
+                "WFValue": {
+                  "Value": "application/vnd.github+json",
+                  "WFSerializationType": "WFTextTokenAttachment"
+                }
+              }
+            ]
+          },
+          "WFSerializationType": "WFDictionaryFieldValue"
+        },
+        "WFURL": "https://api.github.com/repos/VOTRE_USERNAME/Appli-Food-Course/actions/workflows/generate-courses.yml/dispatches",
+        "WFHTTPBodyType": "JSON",
+        "WFHTTPBody": {
+          "Value": {
+            "WFDictionaryFieldValueItems": [
+              {
+                "WFKey": "ref",
+                "WFValue": {
+                  "Value": "main",
+                  "WFSerializationType": "WFTextTokenAttachment"
+                }
+              }
+            ]
+          },
+          "WFSerializationType": "WFDictionaryFieldValue"
+        }
+      }
+    },
+    {
+      "WFWorkflowActionIdentifier": "is.workflow.actions.notification",
+      "WFWorkflowActionParameters": {
+        "WFNotificationActionBody": "Vérifiez votre base Notion Courses",
+        "WFNotificationActionTitle": "✅ Liste de courses générée !"
+      }
+    }
+  ],
+  "WFWorkflowClientRelease": "2.0",
+  "WFWorkflowClientVersion": "900",
+  "WFWorkflowIcon": {
+    "WFWorkflowIconGlyphNumber": 59511,
+    "WFWorkflowIconStartColor": 4282601983
+  },
+  "WFWorkflowInputContentItemClasses": [
+    "WFAppStoreAppContentItem",
+    "WFArticleContentItem",
+    "WFContactContentItem",
+    "WFDateContentItem",
+    "WFEmailAddressContentItem",
+    "WFGenericFileContentItem",
+    "WFImageContentItem",
+    "WFiTunesProductContentItem",
+    "WFLocationContentItem",
+    "WFDCMapsLinkContentItem",
+    "WFAVAssetContentItem",
+    "WFPDFContentItem",
+    "WFPhoneNumberContentItem",
+    "WFRichTextContentItem",
+    "WFSafariWebPageContentItem",
+    "WFStringContentItem",
+    "WFURLContentItem"
+  ],
+  "WFWorkflowMinimumClientVersion": 900,
+  "WFWorkflowMinimumClientVersionString": "900",
+  "WFWorkflowTypes": [
+    "NCWidget",
+    "WatchKit"
+  ]
+}
+

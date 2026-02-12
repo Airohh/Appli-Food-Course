@@ -1,0 +1,2 @@
+"""Intégrations externes (Notion, etc.)."""
+

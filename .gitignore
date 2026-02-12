@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files (optionnel - à ajuster selon besoins)
+# data/*.json
+# !data/stock.json.example
+
+# Cache
+*.duckdb
+*.duckdb.wal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data backups and exports
+data/archives/
+data/exports/
+data/logs/
+
+# Cache des ingrédients (généré automatiquement, partagé via GitHub Actions Cache)
+data/recipes_ingredients_cache.json
+
+# Config sensible (IDs Notion spécifiques à l'utilisateur)
+databases.json
+
+# Fichiers temporaires / historiques
+historique_*.json
+

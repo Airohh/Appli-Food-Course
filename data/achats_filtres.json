@@ -1,0 +1,434 @@
+[
+  {
+    "Aliment": "pepper",
+    "Quantité": 0.375,
+    "Unité": "tsp",
+    "Catégorie": "Spices and Seasonings",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "butter",
+    "Quantité": 37.83325,
+    "Unité": "g",
+    "Catégorie": "Milk, Eggs, Other Dairy",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "celery",
+    "Quantité": 25.25,
+    "Unité": "g",
+    "Catégorie": "Produce",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "celery seed",
+    "Quantité": 0.125,
+    "Unité": "tsps",
+    "Catégorie": "Spices and Seasonings",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "chicken broth",
+    "Quantité": 102.8125,
+    "Unité": "ml",
+    "Catégorie": "Canned and Jarred",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "flour",
+    "Quantité": 20.83325,
+    "Unité": "g",
+    "Catégorie": "Baking",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "garlic powder",
+    "Quantité": 0.125,
+    "Unité": "tsps",
+    "Catégorie": "Spices and Seasonings",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "green beans",
+    "Quantité": 141.7475,
+    "Unité": "g",
+    "Catégorie": "Produce",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "seasoning",
+    "Quantité": 0.125,
+    "Unité": "tsps",
+    "Catégorie": "Spices and Seasonings",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "milk",
+    "Quantité": 162.66658333333334,
+    "Unité": "ml",
+    "Catégorie": "Milk, Eggs, Other Dairy",
+    "Recettes": "Cannoli Ice Cream w. Pistachios & Dark Chocolate, Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "onion",
+    "Quantité": 20.0,
+    "Unité": "g",
+    "Catégorie": "Produce",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "onion powder",
+    "Quantité": 0.125,
+    "Unité": "tsps",
+    "Catégorie": "Spices and Seasonings",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "peas and carrots",
+    "Quantité": 141.7475,
+    "Unité": "g",
+    "Catégorie": "Frozen",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "\" pie crusts",
+    "Quantité": 1.0,
+    "Unité": "",
+    "Catégorie": "Refrigerated",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "salt",
+    "Quantité": 0.9166666666666666,
+    "Unité": "tsp",
+    "Catégorie": "Spices and Seasonings",
+    "Recettes": "Cannoli Ice Cream w. Pistachios & Dark Chocolate, Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "turkey",
+    "Quantité": 99.4,
+    "Unité": "g",
+    "Catégorie": "Meat",
+    "Recettes": "Turkey Pot Pie",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "egg",
+    "Quantité": 0.3333333333333333,
+    "Unité": "",
+    "Catégorie": "Milk, Eggs, Other Dairy",
+    "Recettes": "Sausage & Pepperoni Stromboli",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "sausage",
+    "Quantité": 151.19733333333332,
+    "Unité": "g",
+    "Catégorie": "Meat",
+    "Recettes": "Sausage & Pepperoni Stromboli",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "parmesan cheese",
+    "Quantité": 33.33333333333333,
+    "Unité": "g",
+    "Catégorie": "Cheese",
+    "Recettes": "Sausage & Pepperoni Stromboli",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "pepperoni",
+    "Quantité": 0.3333333333333333,
+    "Unité": "pkg",
+    "Catégorie": "Meat",
+    "Recettes": "Sausage & Pepperoni Stromboli",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "roll of pizza dough",
+    "Quantité": 0.3333333333333333,
+    "Unité": "ball",
+    "Catégorie": "Refrigerated",
+    "Recettes": "Sausage & Pepperoni Stromboli",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "pizza sauce",
+    "Quantité": 163.33333333333331,
+    "Unité": "ml",
+    "Catégorie": "Canned and Jarred",
+    "Recettes": "Sausage & Pepperoni Stromboli",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "mozzarella cheese",
+    "Quantité": 37.33333333333333,
+    "Unité": "g",
+    "Catégorie": "Cheese",
+    "Recettes": "Sausage & Pepperoni Stromboli",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "bananas",
+    "Quantité": 0.25,
+    "Unité": "",
+    "Catégorie": "Produce",
+    "Recettes": "Watching What I Eat: Peanut Butter Banana Oat Breakfast Cookies with Carob / Chocolate Chips",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "butter flavor shortening",
+    "Quantité": 0.125,
+    "Unité": "tsp",
+    "Catégorie": "Baking",
+    "Recettes": "Watching What I Eat: Peanut Butter Banana Oat Breakfast Cookies with Carob / Chocolate Chips",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "chocolate chips",
+    "Quantité": 5.625,
+    "Unité": "ml",
+    "Catégorie": "Baking",
+    "Recettes": "Watching What I Eat: Peanut Butter Banana Oat Breakfast Cookies with Carob / Chocolate Chips",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "creamy peanut butter",
+    "Quantité": 10.75,
+    "Unité": "g",
+    "Catégorie": "Nut butters, Jams, and Honey",
+    "Recettes": "Watching What I Eat: Peanut Butter Banana Oat Breakfast Cookies with Carob / Chocolate Chips",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "nuts",
+    "Quantité": 4.5,
+    "Unité": "g",
+    "Catégorie": "Nuts",
+    "Recettes": "Watching What I Eat: Peanut Butter Banana Oat Breakfast Cookies with Carob / Chocolate Chips",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "oatmeal",
+    "Quantité": 43.75,
+    "Unité": "g",
+    "Catégorie": "Cereal",
+    "Recettes": "Watching What I Eat: Peanut Butter Banana Oat Breakfast Cookies with Carob / Chocolate Chips",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "unsweetened applesauce",
+    "Quantité": 20.333375,
+    "Unité": "ml",
+    "Catégorie": "Canned and Jarred",
+    "Recettes": "Watching What I Eat: Peanut Butter Banana Oat Breakfast Cookies with Carob / Chocolate Chips",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "vanilla extract",
+    "Quantité": 0.125,
+    "Unité": "tsp",
+    "Catégorie": "Baking",
+    "Recettes": "Watching What I Eat: Peanut Butter Banana Oat Breakfast Cookies with Carob / Chocolate Chips",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "vanilla protein powder",
+    "Quantité": 0.125,
+    "Unité": "scoop",
+    "Catégorie": "Health Foods",
+    "Recettes": "Watching What I Eat: Peanut Butter Banana Oat Breakfast Cookies with Carob / Chocolate Chips",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "brown sugar",
+    "Quantité": 55.0,
+    "Unité": "g",
+    "Catégorie": "Baking",
+    "Recettes": "Slow Cooker Spicy Hot Wings",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "cayenne pepper",
+    "Quantité": 0.5,
+    "Unité": "tsp",
+    "Catégorie": "Spices and Seasonings",
+    "Recettes": "Slow Cooker Spicy Hot Wings",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "regular chicken wings",
+    "Quantité": 244.94,
+    "Unité": "g",
+    "Catégorie": "Meat",
+    "Recettes": "Slow Cooker Spicy Hot Wings",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "garlic",
+    "Quantité": 0.5,
+    "Unité": "Tbsp",
+    "Catégorie": "Produce",
+    "Recettes": "Slow Cooker Spicy Hot Wings",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "louisiana hot sauce",
+    "Quantité": 60.0,
+    "Unité": "ml",
+    "Catégorie": "Condiments",
+    "Recettes": "Slow Cooker Spicy Hot Wings",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "oreo cookies 3 cups",
+    "Quantité": 1.5,
+    "Unité": "",
+    "Catégorie": "Sweet Snacks",
+    "Recettes": "How to Make OREO Turkeys for Thanksgiving",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "cream cheese",
+    "Quantité": 0.041666666666666664,
+    "Unité": "pkg",
+    "Catégorie": "Cheese",
+    "Recettes": "How to Make OREO Turkeys for Thanksgiving",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "semi baking chocolate",
+    "Quantité": 18.899666666666665,
+    "Unité": "g",
+    "Catégorie": "Baking",
+    "Recettes": "How to Make OREO Turkeys for Thanksgiving",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "candy corn",
+    "Quantité": 2.0,
+    "Unité": "servings",
+    "Catégorie": "Sweet Snacks",
+    "Recettes": "How to Make OREO Turkeys for Thanksgiving",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "candy eyes",
+    "Quantité": 2.0,
+    "Unité": "servings",
+    "Catégorie": "Meat",
+    "Recettes": "How to Make OREO Turkeys for Thanksgiving",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "icing",
+    "Quantité": 2.0,
+    "Unité": "servings",
+    "Catégorie": "Baking",
+    "Recettes": "How to Make OREO Turkeys for Thanksgiving",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "chocolate",
+    "Quantité": 37.79933333333333,
+    "Unité": "g",
+    "Catégorie": "Sweet Snacks",
+    "Recettes": "Cannoli Ice Cream w. Pistachios & Dark Chocolate",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "pistachios",
+    "Quantité": 20.5,
+    "Unité": "g",
+    "Catégorie": "Savory Snacks",
+    "Recettes": "Cannoli Ice Cream w. Pistachios & Dark Chocolate",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "ricotta",
+    "Quantité": 289.3333333333333,
+    "Unité": "g",
+    "Catégorie": "Cheese",
+    "Recettes": "Cannoli Ice Cream w. Pistachios & Dark Chocolate",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "sugar",
+    "Quantité": 66.66666666666666,
+    "Unité": "g",
+    "Catégorie": "Baking",
+    "Recettes": "Cannoli Ice Cream w. Pistachios & Dark Chocolate",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  },
+  {
+    "Aliment": "vanilla",
+    "Quantité": 0.3333333333333333,
+    "Unité": "tsps",
+    "Catégorie": "Baking",
+    "Recettes": "Cannoli Ice Cream w. Pistachios & Dark Chocolate",
+    "Semaine": "Semaine 45 – 2025",
+    "Acheté": false
+  }
+]

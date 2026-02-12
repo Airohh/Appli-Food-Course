@@ -1,0 +1,70 @@
+name: Proposer Recettes
+
+on:
+  workflow_dispatch:
+    inputs:
+      notion_url:
+        description: 'URL de la vue Notion Recettes (pour la notif)'
+        required: false
+        type: string
+
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Restore cache des ingrédients
+        uses: actions/cache@v3
+        with:
+          path: data/recipes_ingredients_cache.json
+          key: recipes-ingredients-cache-${{ github.repository }}
+          restore-keys: |
+            recipes-ingredients-cache-${{ github.repository }}-
+            recipes-ingredients-cache-
+      
+      - name: Proposer recettes
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SPOONACULAR_API_KEY: ${{ secrets.SPOONACULAR_API_KEY }}
+          SPOONACULAR_API_KEY2: ${{ secrets.SPOONACULAR_API_KEY2 }}
+          SPOONACULAR_API_KEY3: ${{ secrets.SPOONACULAR_API_KEY3 }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_API_KEY: ${{ secrets.NOTION_TOKEN }}
+          NOTION_RECIPES_DB: ${{ secrets.NOTION_RECIPES_DB }}
+          NOTION_GROCERIES_DB: ${{ secrets.NOTION_GROCERIES_DB }}
+          NOTION_STOCK_DB: ${{ secrets.NOTION_STOCK_DB }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_USER: ${{ secrets.NTFY_USER }}
+          NTFY_PASS: ${{ secrets.NTFY_PASS }}
+        run: |
+          python -m app.workflow_recipes --notion-url "${{ inputs.notion_url }}"
+      
+      - name: Save cache des ingrédients
+        uses: actions/cache@v3
+        with:
+          path: data/recipes_ingredients_cache.json
+          key: recipes-ingredients-cache-${{ github.repository }}-${{ github.run_id }}
+          restore-keys: |
+            recipes-ingredients-cache-${{ github.repository }}-
+            recipes-ingredients-cache-
+      
+      - name: Commit results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/menu.json || true
+          git commit -m "update: nouvelles recettes proposées [auto]" || exit 0
+          git push || exit 0
+

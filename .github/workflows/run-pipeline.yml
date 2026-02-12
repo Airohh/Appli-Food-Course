@@ -1,0 +1,75 @@
+name: Run Pipeline (Production)
+
+on:
+  workflow_dispatch:
+    inputs:
+      sync_notion:
+        description: 'Synchroniser vers Notion (override NOTION_SYNC_ENABLED)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Write .env
+        run: |
+          SYNC_ENABLED="${{ inputs.sync_notion }}"
+          if [ "$SYNC_ENABLED" != "true" ]; then
+            SYNC_ENABLED="${NOTION_SYNC_ENABLED:-false}"
+          fi
+          cat <<EOF > .env
+          NOTION_TOKEN=${{ secrets.NOTION_TOKEN }}
+          NOTION_API_KEY=${{ secrets.NOTION_TOKEN }}
+          NOTION_RECIPES_DB=${{ secrets.NOTION_RECIPES_DB }}
+          NOTION_GROCERIES_DB=${{ secrets.NOTION_GROCERIES_DB }}
+          NOTION_STOCK_DB=${{ secrets.NOTION_STOCK_DB }}
+          NOTION_MEALPLAN_DB=${{ secrets.NOTION_MEALPLAN_DB }}
+          NOTION_SYNC_ENABLED=${SYNC_ENABLED}
+          OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
+          SPOONACULAR_API_KEY=${{ secrets.SPOONACULAR_API_KEY }}
+          SPOONACULAR_API_KEY2=${{ secrets.SPOONACULAR_API_KEY2 }}
+          EOF
+        env:
+          NOTION_SYNC_ENABLED: ${{ secrets.NOTION_SYNC_ENABLED }}
+
+      - name: Refresh stock from Notion
+        run: python -m notion_tools.fetch.fetch_stock
+
+      - name: Run pipeline
+        run: python -m app.main --mode prod --refresh-stock
+
+      - name: Sync to Notion (legacy method)
+        if: ${{ !inputs.sync_notion }}
+        run: |
+          # Utilise l'ancienne méthode si la nouvelle n'est pas activée
+          python -m notion_tools.sync.sync_menu --source data/menu.json || true
+          python -m notion_tools.sync.sync_courses --source data/achats_filtres.json || true
+        continue-on-error: true
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/menu.json data/groceries.json data/achats_filtres.json
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "update pipeline results [auto]"
+            git push
+          fi
+
